@@ -11,7 +11,8 @@ module.exports = {
       file: '.bumpr-log.json'
     },
     release: {
-      enabled: true
+      enabled: true,
+      artifacts: 'artifacts'
     }
   }
 }
