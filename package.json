@@ -1,0 +1,13 @@
+{
+  "name": "example",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jobsquad/example.git"
+  },
+  "engines": {
+    "node": ">= 9.0"
+  },
+  "author": "Adam Meadows [https://github.com/job13er]",
+  "license": "MIT"
+}
